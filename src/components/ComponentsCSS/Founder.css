@@ -1,0 +1,57 @@
+.container {
+    width: 98vw;
+    height: 35vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.msg {
+    width: 50vw;
+    height: 35vw;
+    padding: 15px;
+}
+
+.line{
+    background-color:rgb(77, 133, 255) ;
+    width: 5vw;
+    height: 0.5%;
+}
+
+.block{
+    position: relative;
+    top: 20%;
+}
+
+h3{
+    margin-top: 8%;
+}
+
+#paragraph{
+    color: grey;
+}
+
+#anas{
+    color: rgb(77, 133, 255) ;
+    font-weight: bold;
+    width: 40vw;
+    font-size: large;
+}
+
+#ceo{
+    color: grey;
+}
+
+.img {
+    width: 50vw;
+    height: 35vw;
+    margin: auto;
+    margin-left: 1%;
+    
+}
+
+#founderimg{
+    width: 40vw;
+    height: 35vw;
+}

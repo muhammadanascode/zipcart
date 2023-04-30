@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Encode Sans', sans-serif;
+    text-shadow: 1px 1px 1px white;
+    color: rgb(255, 125, 4);
+    background-color: rgb(11, 63, 99);
+}
+
+.nestedCol {
+    margin: auto;
+    width: 18rem;
+    border: 1px solid grey;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+.col-md-4 {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;    
+}
+
+
+.nestedCol :hover{
+   box-shadow: 2px 2px 5px rgb(149, 198, 255);
+}
+
+#img{
+    width: 19vw;
+    height: 40vh;
+}

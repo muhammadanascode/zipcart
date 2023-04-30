@@ -1,0 +1,26 @@
+.slider {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#img1 {
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    transform: translate(0vw);
+    opacity: 1;
+    animation: animateimg1 2s ease-in 4s 1;
+}
+
+#img2 {
+    width: 800px;
+    height: 300px;
+    margin: auto;
+}
+#img3 {
+    width: 800px;
+    height: 300px;
+    margin: auto;
+}
